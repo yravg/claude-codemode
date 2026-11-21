@@ -21,14 +21,14 @@ Based on the Claude Code docs (https://code.claude.com/docs/en/code-mode) and th
 In Claude Code:
 
 ```
-/plugin marketplace add yraveragework/claude-codemode
+/plugin marketplace add yravg/claude-codemode
 /plugin install codemode@codemode
 ```
 
 Or from a shell:
 
 ```
-claude plugin marketplace add yraveragework/claude-codemode
+claude plugin marketplace add yravg/claude-codemode
 claude plugin install codemode@codemode
 ```
 
