@@ -1,0 +1,16 @@
+{
+  "name": "codemode",
+  "owner": {
+    "name": "Enrico D. Marlon"
+  },
+  "plugins": [
+    {
+      "name": "codemode",
+      "source": "./",
+      "description": "Claude Code Code Mode: setup check, claude-cm launcher, Orca launch, off/on token comparison."
+    }
+  ],
+  "metadata": {
+    "description": "Claude Code Code Mode plugin: setup check, claude-cm launcher, Orca launch, off/on token comparison."
+  }
+}
