@@ -3,5 +3,6 @@
   "version": "0.1.0",
   "description": "Use Claude Code's experimental Code Mode on any machine: check the setup, launch with claude-cm (terminal or Orca), run the fair off/on 3-test method and compare tokens from the transcripts.",
   "author": { "name": "Enrico D. Marlon" },
+  "license": "MIT",
   "keywords": ["code-mode", "tokens", "orca", "benchmark"]
 }

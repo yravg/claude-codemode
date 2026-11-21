@@ -32,7 +32,7 @@ claude plugin marketplace add yravg/claude-codemode
 claude plugin install codemode@codemode
 ```
 
-The repo is private: the device needs GitHub access (`gh auth login`, or an SSH key with access to the repo). Update later with `/plugin marketplace update codemode`.
+Update later with `/plugin marketplace update codemode`.
 
 Then, in a normal Claude Code session, say "set up code mode" or run `/codemode:codemode`. Claude runs the doctor, offers to install the `claude-cm` shortcut, and proposes 3 tests from your work.
 

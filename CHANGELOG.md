@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- MIT licence; repo is public, so install needs no GitHub login.
+
 ## 0.1.0 - 2026-11-21
 
 - First release: `codemode` skill (setup check, launch in terminal and Orca, 3-test method, compare, troubleshooting).
